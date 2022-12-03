@@ -1,0 +1,7 @@
+.history/
+
+db.sqlite3
+
+__py_cache__
+
+.venv
